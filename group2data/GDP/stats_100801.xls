@@ -1,0 +1,287 @@
+
+
+
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    </head>
+
+
+	
+	<br>
+	<table border=1>
+		<caption>시도별 성장률 [단위 : 실질성장률 %]</caption>
+			<thead>
+			<tr>
+			<th colspan="1" rowspan="1">&nbsp;</th>
+			<th data-id='t100801_h_0' data-index='0' data-name='td_100801_cc_0' class="tc" data-headers='td_100801_cc_0'  rowspan='1'>2012</th>
+<th data-id='t100801_h_1' data-index='1' data-name='td_100801_cc_1' class="tc" data-headers='td_100801_cc_1'  rowspan='1'>2013</th>
+<th data-id='t100801_h_2' data-index='2' data-name='td_100801_cc_2' class="tc" data-headers='td_100801_cc_2'  rowspan='1'>2014</th>
+<th data-id='t100801_h_3' data-index='3' data-name='td_100801_cc_3' class="tc" data-headers='td_100801_cc_3'  rowspan='1'>2015</th>
+<th data-id='t100801_h_4' data-index='4' data-name='td_100801_cc_4' class="tc" data-headers='td_100801_cc_4'  rowspan='1'>2016</th>
+<th data-id='t100801_h_5' data-index='5' data-name='td_100801_cc_5' class="tc" data-headers='td_100801_cc_5'  rowspan='1'>2017</th>
+<th data-id='t100801_h_6' data-index='6' data-name='td_100801_cc_6' class="tc" data-headers='td_100801_cc_6'  rowspan='1'>2018</th>
+</tr>
+			</thead>
+			<tbody>
+	
+				<tr>
+				
+				<th class="tl" data-id='t100801_c1_0' colspan='1' rowspan='1'>전국</th>
+	<td headers='t100801_h_0 t100801_c1_0'>2.3</td>
+<td headers='t100801_h_1 t100801_c1_0'>3.1</td>
+<td headers='t100801_h_2 t100801_c1_0'>3.1</td>
+<td headers='t100801_h_3 t100801_c1_0'>2.8</td>
+<td headers='t100801_h_4 t100801_c1_0'>2.9</td>
+<td headers='t100801_h_5 t100801_c1_0'>3.1</td>
+<td headers='t100801_h_6 t100801_c1_0'>2.8</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_1' colspan='1' rowspan='1'>서울</th>
+	<td headers='t100801_h_0 t100801_c1_1'>1.4</td>
+<td headers='t100801_h_1 t100801_c1_1'>1.6</td>
+<td headers='t100801_h_2 t100801_c1_1'>1.5</td>
+<td headers='t100801_h_3 t100801_c1_1'>2.9</td>
+<td headers='t100801_h_4 t100801_c1_1'>2.8</td>
+<td headers='t100801_h_5 t100801_c1_1'>2.3</td>
+<td headers='t100801_h_6 t100801_c1_1'>3.4</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_2' colspan='1' rowspan='1'>부산</th>
+	<td headers='t100801_h_0 t100801_c1_2'>2.6</td>
+<td headers='t100801_h_1 t100801_c1_2'>1.7</td>
+<td headers='t100801_h_2 t100801_c1_2'>4.2</td>
+<td headers='t100801_h_3 t100801_c1_2'>3.0</td>
+<td headers='t100801_h_4 t100801_c1_2'>1.7</td>
+<td headers='t100801_h_5 t100801_c1_2'>1.6</td>
+<td headers='t100801_h_6 t100801_c1_2'>1.5</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_3' colspan='1' rowspan='1'>대구</th>
+	<td headers='t100801_h_0 t100801_c1_3'>3.7</td>
+<td headers='t100801_h_1 t100801_c1_3'>3.5</td>
+<td headers='t100801_h_2 t100801_c1_3'>2.6</td>
+<td headers='t100801_h_3 t100801_c1_3'>3.0</td>
+<td headers='t100801_h_4 t100801_c1_3'>0.0</td>
+<td headers='t100801_h_5 t100801_c1_3'>1.7</td>
+<td headers='t100801_h_6 t100801_c1_3'>2.2</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_4' colspan='1' rowspan='1'>인천</th>
+	<td headers='t100801_h_0 t100801_c1_4'>3.7</td>
+<td headers='t100801_h_1 t100801_c1_4'>2.7</td>
+<td headers='t100801_h_2 t100801_c1_4'>4.8</td>
+<td headers='t100801_h_3 t100801_c1_4'>1.8</td>
+<td headers='t100801_h_4 t100801_c1_4'>2.6</td>
+<td headers='t100801_h_5 t100801_c1_4'>4.3</td>
+<td headers='t100801_h_6 t100801_c1_4'>0.4</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_5' colspan='1' rowspan='1'>광주</th>
+	<td headers='t100801_h_0 t100801_c1_5'>2.1</td>
+<td headers='t100801_h_1 t100801_c1_5'>3.8</td>
+<td headers='t100801_h_2 t100801_c1_5'>4.0</td>
+<td headers='t100801_h_3 t100801_c1_5'>2.0</td>
+<td headers='t100801_h_4 t100801_c1_5'>3.1</td>
+<td headers='t100801_h_5 t100801_c1_5'>1.3</td>
+<td headers='t100801_h_6 t100801_c1_5'>5.2</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_6' colspan='1' rowspan='1'>대전</th>
+	<td headers='t100801_h_0 t100801_c1_6'>1.5</td>
+<td headers='t100801_h_1 t100801_c1_6'>1.1</td>
+<td headers='t100801_h_2 t100801_c1_6'>2.0</td>
+<td headers='t100801_h_3 t100801_c1_6'>3.0</td>
+<td headers='t100801_h_4 t100801_c1_6'>3.5</td>
+<td headers='t100801_h_5 t100801_c1_6'>0.8</td>
+<td headers='t100801_h_6 t100801_c1_6'>0.8</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_7' colspan='1' rowspan='1'>울산</th>
+	<td headers='t100801_h_0 t100801_c1_7'>0.6</td>
+<td headers='t100801_h_1 t100801_c1_7'>0.5</td>
+<td headers='t100801_h_2 t100801_c1_7'>0.1</td>
+<td headers='t100801_h_3 t100801_c1_7'>0.6</td>
+<td headers='t100801_h_4 t100801_c1_7'>0.9</td>
+<td headers='t100801_h_5 t100801_c1_7'>-0.7</td>
+<td headers='t100801_h_6 t100801_c1_7'>0.0</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_8' colspan='1' rowspan='1'>세종</th>
+	<td headers='t100801_h_0 t100801_c1_8'>-</td>
+<td headers='t100801_h_1 t100801_c1_8'>-</td>
+<td headers='t100801_h_2 t100801_c1_8'>25.5</td>
+<td headers='t100801_h_3 t100801_c1_8'>7.3</td>
+<td headers='t100801_h_4 t100801_c1_8'>5.1</td>
+<td headers='t100801_h_5 t100801_c1_8'>4.2</td>
+<td headers='t100801_h_6 t100801_c1_8'>2.6</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_9' colspan='1' rowspan='1'>경기</th>
+	<td headers='t100801_h_0 t100801_c1_9'>4.5</td>
+<td headers='t100801_h_1 t100801_c1_9'>5.7</td>
+<td headers='t100801_h_2 t100801_c1_9'>4.5</td>
+<td headers='t100801_h_3 t100801_c1_9'>5.5</td>
+<td headers='t100801_h_4 t100801_c1_9'>4.7</td>
+<td headers='t100801_h_5 t100801_c1_9'>6.6</td>
+<td headers='t100801_h_6 t100801_c1_9'>4.9</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_10' colspan='1' rowspan='1'>강원</th>
+	<td headers='t100801_h_0 t100801_c1_10'>2.0</td>
+<td headers='t100801_h_1 t100801_c1_10'>3.2</td>
+<td headers='t100801_h_2 t100801_c1_10'>4.9</td>
+<td headers='t100801_h_3 t100801_c1_10'>2.0</td>
+<td headers='t100801_h_4 t100801_c1_10'>2.9</td>
+<td headers='t100801_h_5 t100801_c1_10'>4.1</td>
+<td headers='t100801_h_6 t100801_c1_10'>1.6</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_11' colspan='1' rowspan='1'>충북</th>
+	<td headers='t100801_h_0 t100801_c1_11'>3.4</td>
+<td headers='t100801_h_1 t100801_c1_11'>3.9</td>
+<td headers='t100801_h_2 t100801_c1_11'>4.2</td>
+<td headers='t100801_h_3 t100801_c1_11'>7.0</td>
+<td headers='t100801_h_4 t100801_c1_11'>5.8</td>
+<td headers='t100801_h_5 t100801_c1_11'>6.1</td>
+<td headers='t100801_h_6 t100801_c1_11'>6.3</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_12' colspan='1' rowspan='1'>충남</th>
+	<td headers='t100801_h_0 t100801_c1_12'>0.7</td>
+<td headers='t100801_h_1 t100801_c1_12'>-1.8</td>
+<td headers='t100801_h_2 t100801_c1_12'>2.9</td>
+<td headers='t100801_h_3 t100801_c1_12'>1.1</td>
+<td headers='t100801_h_4 t100801_c1_12'>3.2</td>
+<td headers='t100801_h_5 t100801_c1_12'>5.4</td>
+<td headers='t100801_h_6 t100801_c1_12'>2.5</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_13' colspan='1' rowspan='1'>전북</th>
+	<td headers='t100801_h_0 t100801_c1_13'>1.0</td>
+<td headers='t100801_h_1 t100801_c1_13'>4.4</td>
+<td headers='t100801_h_2 t100801_c1_13'>2.0</td>
+<td headers='t100801_h_3 t100801_c1_13'>1.0</td>
+<td headers='t100801_h_4 t100801_c1_13'>-0.8</td>
+<td headers='t100801_h_5 t100801_c1_13'>1.9</td>
+<td headers='t100801_h_6 t100801_c1_13'>2.2</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_14' colspan='1' rowspan='1'>전남</th>
+	<td headers='t100801_h_0 t100801_c1_14'>0.7</td>
+<td headers='t100801_h_1 t100801_c1_14'>1.9</td>
+<td headers='t100801_h_2 t100801_c1_14'>0.0</td>
+<td headers='t100801_h_3 t100801_c1_14'>0.7</td>
+<td headers='t100801_h_4 t100801_c1_14'>2.3</td>
+<td headers='t100801_h_5 t100801_c1_14'>1.3</td>
+<td headers='t100801_h_6 t100801_c1_14'>3.1</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_15' colspan='1' rowspan='1'>경북</th>
+	<td headers='t100801_h_0 t100801_c1_15'>0.8</td>
+<td headers='t100801_h_1 t100801_c1_15'>3.8</td>
+<td headers='t100801_h_2 t100801_c1_15'>7.1</td>
+<td headers='t100801_h_3 t100801_c1_15'>-2.6</td>
+<td headers='t100801_h_4 t100801_c1_15'>2.5</td>
+<td headers='t100801_h_5 t100801_c1_15'>-1.2</td>
+<td headers='t100801_h_6 t100801_c1_15'>-1.1</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_16' colspan='1' rowspan='1'>경남</th>
+	<td headers='t100801_h_0 t100801_c1_16'>2.6</td>
+<td headers='t100801_h_1 t100801_c1_16'>0.5</td>
+<td headers='t100801_h_2 t100801_c1_16'>0.4</td>
+<td headers='t100801_h_3 t100801_c1_16'>1.7</td>
+<td headers='t100801_h_4 t100801_c1_16'>0.7</td>
+<td headers='t100801_h_5 t100801_c1_16'>-0.7</td>
+<td headers='t100801_h_6 t100801_c1_16'>0.4</td>
+
+				</tr>
+	
+				<tr>
+				
+				
+<th class="tl" data-id='t100801_c1_17' colspan='1' rowspan='1'>제주</th>
+	<td headers='t100801_h_0 t100801_c1_17'>6.3</td>
+<td headers='t100801_h_1 t100801_c1_17'>4.9</td>
+<td headers='t100801_h_2 t100801_c1_17'>6.9</td>
+<td headers='t100801_h_3 t100801_c1_17'>7.4</td>
+<td headers='t100801_h_4 t100801_c1_17'>8.0</td>
+<td headers='t100801_h_5 t100801_c1_17'>4.6</td>
+<td headers='t100801_h_6 t100801_c1_17'>-1.7</td>
+
+				</tr>
+			
+		</tbody>
+	</table>
+	<br>
+	
+	
+	
+	
+</html>
